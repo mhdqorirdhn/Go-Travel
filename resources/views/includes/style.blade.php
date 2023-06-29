@@ -1,0 +1,4 @@
+<link href="{{url('Frontend/Style/main.css')}}" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Assistant:200,400,700&&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="{{url('FrontEnd/Libaries/bootstrap 4.3/css/bootstrap.css')}}">
